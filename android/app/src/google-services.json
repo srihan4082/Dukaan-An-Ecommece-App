@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797099109278",
+    "project_id": "fir-flutter-8c82d",
+    "storage_bucket": "fir-flutter-8c82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797099109278:android:efa682f6a848268c39048f",
+        "android_client_info": {
+          "package_name": "com.example.dukaan_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcVqWXG7JKNFZ8GiLEpcXAi5aOv_k2qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
