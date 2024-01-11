@@ -34,3 +34,21 @@ To run the app locally, follow these steps:
 
 - Flutter: Cross-platform UI framework for building natively compiled applications.
 - Firebase: Backend services for authentication, real-time database, and more.
+
+
+# App Demo
+
+## Sign in 
+![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105839.png)<br>
+## Home Screen
+![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240102-223551.png)<br>
+## Notifications Screen
+![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105904.png)<br>
+## Category List
+![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105914.png)<br>
+## Checkout Screen
+![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105925.png)<br>
+## Feedback Page
+![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-110007.png)<br>
+## Profile Page
+![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105932.png)<br>
