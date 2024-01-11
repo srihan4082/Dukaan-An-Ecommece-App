@@ -37,18 +37,41 @@ To run the app locally, follow these steps:
 
 
 # App Demo
-
-## Sign in 
-![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105839.png)<br>
-## Home Screen
-![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240102-223551.png)<br>
-## Notifications Screen
-![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105904.png)<br>
-## Category List
-![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105914.png)<br>
-## Checkout Screen
-![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105925.png)<br>
-## Feedback Page
-![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-110007.png)<br>
-## Profile Page
-![](https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105932.png)<br>
+<center>
+   <table>
+      <tr>
+         <td>
+            <strong>Sign in</strong>
+            <img src="https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105839.png" height=650 width=300>
+         </td>
+         <td>
+            <strong>Home Screen</strong>
+            <img src="https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240102-223551.png" height=650 width=300>
+         </td>
+         <td>
+            <strong>Notifications Screen</strong>
+            <img src="https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105904.png" height=650 width=300>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <strong>Category List</strong>
+            <img src="https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105914.png" height=650 width=300>
+         </td>
+         <td>
+            <strong>Checkout Screen</strong>
+            <img src="https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105925.png" height=650 width=300>
+         </td>
+         <td>
+            <strong>Feedback Page</strong>
+            <img src="https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-110007.png" height=650 width=300>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <strong>Profile Page</strong>
+            <img src="https://github.com/srihan4082/Dukaan-An-Ecommece-App/blob/main/screenshots/Screenshot_20240111-105932.png" height=650 width=300>
+         </td>
+      </tr>
+   </table>
+</center>
