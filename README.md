@@ -21,8 +21,8 @@ To run the app locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Dukaan-Flutter-App.git
-   cd Dukaan-Flutter-App
+   git clone https://github.com/srihan4082/Dukaan-An-Ecommerce-App.git
+   cd Dukaan-An-Ecommerce-App
 2. **Install Dependencies:**
    ```bash
    flutter pub get
